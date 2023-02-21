@@ -1,0 +1,3 @@
+discord==2.1.0
+colorama==0.4.4
+python-random-strings==0.3
