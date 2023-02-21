@@ -14,4 +14,5 @@ Do the same manipulations for starter.sh script
 For **windows** (Bot folder)
 ```
 pip install -r requirements.txt
-python bot.py```
+python bot.py
+```
