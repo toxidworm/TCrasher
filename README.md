@@ -1,7 +1,8 @@
 # TCrasher
 Simple crasher for discord servers
 
-#Installation
+
+**Installation**
 For **debian** or **ubuntu**:
 ```
 chmod +x installation-debian.sh
