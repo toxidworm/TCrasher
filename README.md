@@ -5,7 +5,7 @@ Simple crasher for discord servers
 ## ToDo
 Arch linux support for installer
 
-**Installation**
+## **Installation**
 
 For **debian** or **ubuntu**:
 - Open Terminal
