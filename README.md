@@ -1,7 +1,8 @@
 # TCrasher
 Simple crasher for discord servers
 
-##To do
+
+## To do
 Arch linux support for installer
 
 **Installation**
