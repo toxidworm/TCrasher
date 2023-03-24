@@ -2,7 +2,7 @@
 Simple crasher for discord servers
 
 
-## To do
+## ToDo
 Arch linux support for installer
 
 **Installation**
